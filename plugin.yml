@@ -1,6 +1,6 @@
 name: HideAndSeek
 main: com.xiaochangmc.hideandseek.main
-version: 1.8
+version: 0.08
 author: XiaochangMC
 
 commands:
