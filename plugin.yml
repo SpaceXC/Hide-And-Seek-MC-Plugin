@@ -1,0 +1,23 @@
+name: HideAndSeek
+main: com.xiaochangmc.hideandseek.main
+version: 1.8
+author: XiaochangMC
+
+commands:
+  hideandseek:
+    description: 测试命令
+  set_killer:
+    description: 设置杀手
+  heal:
+    description: 给执行命令的玩家回血
+  ping:
+    description: 获取当前与服务器的延迟
+
+permissions:
+  hideandseek.*:
+    description: HideAndSeek的所有权限
+    children:
+      hideandseek.commands.set_killer: true
+  hideandseek.commands.set_killer:
+    description: /set_killer command permission
+    default: op
