@@ -1,4 +1,4 @@
-# Hide And Seek MC Plugin
+# Hide And Seek MC Plugin - 已弃坑
  - Hide And Seek plugin repo
  - See more features in Release Page!
 
